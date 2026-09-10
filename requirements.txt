@@ -1,0 +1,20 @@
+# Core
+youtube_transcript_api
+psycopg2-binary
+python-dotenv
+requests
+opencv-python
+yt-dlp
+
+# Transcript fallback for TikTok, Instagram Reels, and YouTube without captions
+openai-whisper
+imageio-ffmpeg
+
+# Food ingredient detection (Roboflow FOOD-INGREDIENTS 120 classes)
+inference
+
+# On-screen caption OCR (GLM-OCR via Ollama); run: ollama pull glm-ocr:q8_0
+ollama
+
+# Optional: food_detector.py (frame filtering)
+# torch torchvision Pillow

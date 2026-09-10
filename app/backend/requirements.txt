@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+requests
+youtube_transcript_api
+psycopg2-binary
+yt-dlp
+python-dotenv

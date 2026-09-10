@@ -1,0 +1,22 @@
+# Local env (do not commit API keys)
+.env
+.env.local
+
+# Virtual environment
+venv/
+
+# Runtime outputs
+video.mp4
+frames/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Debug logs
+*.log
+
+# Node / frontend build
+node_modules/
+dist/
